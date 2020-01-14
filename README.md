@@ -5,7 +5,7 @@ This dataset contains patient information from 100k + medical appointments in Br
 The orignal dataset can be found [here](https://www.kaggle.com/joniarroba/noshowappointments)
 
 ## Prerequisites
-- **Python versions 3.0 and above**
+- Python versions 3.0 and above
 - unicodecsv
 - datetime
 - pandas
