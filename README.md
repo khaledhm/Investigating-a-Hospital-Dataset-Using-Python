@@ -22,7 +22,7 @@ The main question that we wanted to answer and find was, what are the reasons th
 There are two files, one is the dataset itself located inside the Dataset folder, and the notebook itself with two formats ".html" and ".ipynb". The notebook contains all the work.
 
 ## Results 
-The main findings of the code can be found [here](https://medium.com/@h.secure1/investigating-a-hospital-dataset-using-python-7b37706da5eb)
+The main findings of the code can be found [here](https://medium.com/@k.almenaia/investigating-a-hospital-dataset-20600cc71766)
 
 ## Licensing, Authors, Acknowledgments
 Credit goes to [Keras](https://www.kaggle.com/joniarroba/noshowappointments) for providing the data. 
