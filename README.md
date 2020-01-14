@@ -14,7 +14,7 @@ The orignal dataset can be found [here](https://www.kaggle.com/joniarroba/noshow
 - seaborn
 
 ## Project Motivation 
-This project is an implementation of the "CRISP-DM" approach to create a Github post to present my skill in Analyzing a dataset as part of my Udacity's Data Scientist Nanodegree.
+This project is an implementation of "CRISP-DM" approach to create a Github post to present my skill in Analyzing a dataset as part of my Udacity's Data Scientist Nanodegree.
 
 The main question that we wanted to answer and find was, what are the reasons that will result in the patient not showing. Is it because of the waiting time, scholarship, their locations, type of disease, or age. 
 
